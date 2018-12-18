@@ -1,3 +1,5 @@
+using UnityEditor;
+
 public class BuildScript {
 
     [MenuItem("Build Android")]
